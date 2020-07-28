@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/connorrothschild/connorrothschild/master/illustration.png" alt="Illustration of me looking at some stats and graphs!" width=666px height=562px/>
-
 ### Hi everyone!
 
 👋🏼 My name's Connor Rothschild. Through a fellowship with [Coding It Forward](https://www.codingitforward.com/), I'm currently working as a data scientist for the US Special Operations Command, where I'm building a machine learning for predictive maintenance of military helicopters.  
