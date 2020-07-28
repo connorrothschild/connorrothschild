@@ -1,6 +1,6 @@
-### Hi everyone!
+<img src="https://raw.githubusercontent.com/connorrothschild/connorrothschild/master/gh_header.png" alt="A header image introducing me with my name and a small illustration of a man working with statistics and graphs"> <!-- https://blush.ly/CDA0ZjAyn/p -->
 
-👋🏼 My name's Connor Rothschild. Through a fellowship with [Coding It Forward](https://www.codingitforward.com/), I'm currently working as a data scientist for the US Special Operations Command, where I'm building a machine learning for predictive maintenance of military helicopters.  
+👋🏼 Nice to meet you! Through a fellowship with [Coding It Forward](https://www.codingitforward.com/), I'm currently working as a data scientist for the US Special Operations Command, where I'm building a machine learning for predictive maintenance of military helicopters.  
 
 📚 I'm also a senior at Rice University, where I study social policy analysis. There, I spend my time on data science (R), visualization (D3), and civic tech.
 
