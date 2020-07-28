@@ -1,4 +1,4 @@
-<img align="right" src="illustration.png" alt="Illustration of me looking at some stats and graphs!" width=421.5px height=500px/>
+<img align="right" src="https://raw.githubusercontent.com/connorrothschild/connorrothschild/master/illustration.png" alt="Illustration of me looking at some stats and graphs!" width=281px height=333.3px/>
 
 ### Hi everyone!
 
