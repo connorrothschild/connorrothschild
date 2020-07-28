@@ -1,4 +1,4 @@
-<img align="right" src="icon.png" alt="Illustration of me looking at some stats and graphs!" width=350px height=465px/>
+<img align="right" src="icon.png" alt="Illustration of me looking at some stats and graphs!" width=421.5px height=500px/>
 
 ### Hi everyone!
 
