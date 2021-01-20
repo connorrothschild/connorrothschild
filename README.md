@@ -1,7 +1,3 @@
-👋 Hi, nice to meet you! I'm a senior at Rice University, where I study social policy analysis. There, I spend my time on data science (R), visualization (D3), and civic tech. 
+👋 Hi, nice to meet you! I'm a senior at Rice University, where I study the quantitative social sciences and minor in data science. There, I spend my time on data science (R), visualization (D3), and civic tech. On my GitHub profile, you'll find a mix of personal projects, work experiences, and works in progress.
 
-💼 Through a fellowship with [Coding It Forward](https://www.codingitforward.com/), I recently finished a summer internship as a data scientist for the US Special Operations Command, where I built a fullstack web application to automate data-verification processes. I also have work experience in policy analysis, data science, and graphics/visualization.
-
-💻 This GitHub repo contains a mix of personal and work-related projects. Here, you'll find a portfolio of my projects done in [R](https://github.com/connorrothschild/R), those done in [D3.js](https://github.com/connorrothschild/D3.js), and a more comprehensive coverage in [my personal website](https://github.com/connorrothschild/connorrothschild.com). 
-
-📩 If you'd like to ask any questions about my process, or would like to collaborate on a project, feel free to reach out via [Twitter](https://twitter.com/CL_Rothschild), or email [me@connorrothschild.com](mailto:me@connorrothschild.com).
+If you'd like to ask any questions about my process, or would like to collaborate on a project, feel free to reach out via [Twitter](https://twitter.com/CL_Rothschild), or email [me@connorrothschild.com](mailto:me@connorrothschild.com).
