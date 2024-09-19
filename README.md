@@ -1,5 +1,3 @@
-👋 Hi, nice to meet you! I'm a data scientist and associate at [Moksha Data](https://www.mokshadata.com). I have work experience in [journalism](https://www.axios.com/), [government](https://www.codingitforward.com/), and [public policy research](https://www.texaspolicylab.org/).
+👋 Hi, nice to meet you! I'm a designer and engineer with a focus on information design and data visualization. You can find some of my work [here](https://www.connorrothschild.com/projects)
 
-Here on my GitHub profile, you'll find a mix of personal projects, work experiences, and works in progress. Most of my projects are built using some combination of **R** for analysis, **D3** for visuals, **Svelte** for frontend experience.
-
-If you'd like to ask any questions about my process, or would like to collaborate on a project, feel free to reach out via [Twitter](https://twitter.com/CL_Rothschild), or email [me@connorrothschild.com](mailto:me@connorrothschild.com).
+If you'd like to ask any questions about my process, or would like to collaborate on a project, feel free to reach out via [Twitter](https://twitter.com/CL_Rothschild), or email [connor@connorrothschild.com](mailto:connor@connorrothschild.com).
